@@ -1,0 +1,7 @@
+{
+  "galaxy.meteor.com": {
+     "env": {
+       "MONGO_URL": "mongodb://<dbuser>:<dbpassword>@<@ds061076.mlab.com>:<61076>/<nrtest>"
+     }
+   }
+}
