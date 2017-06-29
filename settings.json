@@ -1,7 +1,7 @@
 {
   "galaxy.meteor.com": {
      "env": {
-       "MONGO_URL": "mongodb://user:Alkaline33!@ds061076.mlab.com:61076/nrtest"
+       "MONGO_URL": "mongodb://codetiki:GoonCrowley123@ds061076.mlab.com:61076/nrtest"
      }
    }
 }
